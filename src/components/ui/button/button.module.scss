@@ -1,0 +1,16 @@
+.button {
+  &__primary {
+    background: $color-blue;
+    color: $color-white;
+  }
+
+  &__sm {
+    padding: 0.5rem 1rem;
+  }
+  &__md {
+    padding: 1rem 2rem;
+  }
+  &__lg {
+    padding: 2rem 4rem;
+  }
+}
